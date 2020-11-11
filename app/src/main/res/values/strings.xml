@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="paswrdHintHome">Enter Password</string>
+    <string name="emailHintHome">Enter Email</string>
+    <string name="usernameSignup">Enter Username</string>
+    <string name="signupbutton">signup here</string>
+    <string name="loginbutton">login here</string>
+    <string name="ageSignup">Enter Age</string>
+    <string name="signupNumber">Enter Contact Number</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset_passwordButton">Reset Password</string>
+</resources>
